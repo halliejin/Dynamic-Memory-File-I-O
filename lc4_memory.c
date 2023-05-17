@@ -2,8 +2,6 @@
 /* File Name : lc4_memory.c		 										*/
 /* Purpose   : This file implements the linked_list helper functions	*/
 /* 			   to manage the LC4 memory									*/
-/*             															*/
-/* Author(s) : Zihan Jin & Congyang Ding (see README)												*/
 /************************************************************************/
 
 #include <stdio.h>
