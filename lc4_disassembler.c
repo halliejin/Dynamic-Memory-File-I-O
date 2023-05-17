@@ -1,9 +1,9 @@
-/************************************************************************/
-/* File Name : lc4_disassembler.c 										*/
-/* Purpose   : This file implements the reverse assembler 				*/
-/*             for LC4 assembly.  It will be called by main()			*/
-/*             															*/
-/************************************************************************/
+/********************************************************************/
+/* File Name : lc4_disassembler.c 									*/
+/* Purpose   : This file implements the reverse assembler 			*/
+/*             for LC4 assembly.  It will be called by main()		*/
+/*             														*/
+/********************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
