@@ -1,9 +1,6 @@
 /************************************************************************/
 /* File Name : lc4_disassembler.h 										*/
 /* Purpose   : This function declares functions for lc4_dissembler.c	*/
-/*      																*/
-/*             															*/
-/* Author(s) : tjf 														*/
 /************************************************************************/
 
 #include <stdio.h>
